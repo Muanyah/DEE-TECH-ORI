@@ -115,7 +115,7 @@ footer{padding:20px clamp(16px,4vw,40px);font-size:.8rem;opacity:.85; z-index: -
 .lb-x{top:16px;right:16px}.lb-p{left:16px;top:50%;transform:translateY(-50%)}.lb-n{right:16px;top:50%;transform:translateY(-50%)}
 
 /* .gallery video{width:100%;border-radius:14px;background:#000} */
-.gallery video{width:100%;aspect-ratio:9/16;object-fit:cover;border-radius:14px;background:#000}
+.gallery video{width:100%;aspect-ratio:9/16;object-fit:contain;border-radius:14px;background:#000}
 .gallery iframe{width:100%;aspect-ratio:16/9;border:0;border-radius:14px}
 
 @media (max-width:860px){
