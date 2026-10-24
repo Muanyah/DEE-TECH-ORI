@@ -5,7 +5,7 @@ window.SITE = {
   categories: ["Branding","Fliers","Logos","Video Editing","AI Videos","Web","Motions"],
   nav: [["Home","home.html"],["Work","work.html"],["About","about.html"],["Services","services.html"],["Contact","contact.html"]],
   hero: {
-    title: "CREATE", line1: "Designs that inspire.", line2: "Ideas that connect.",
+    title: "Dee\u2011TECH", line1: "We Solve. You Grow.", 
     cta: "View work", trust: "Trusted by forward-thinking brands worldwide.",
     image: "assets/images/hero.svg", alt: "Portrait of Dee, placeholder image - replace in content.js"
   },
@@ -19,7 +19,7 @@ window.SITE = {
           From logos, fliers and brand kits to websites and promotional videos, every project gets careful attention and honest communication from start to finish. If you have an idea, a brand to build or a project to bring to life, Dee-TECH would love to hear about it.`,
     experience: [["Branding","Brand kits and identity work for Peak Milk, Useerranza and Meshai, covering logos, colours and brand style."],["Graphics design","Flier design, including a church flier, and logo work."],["Web design and development","Websites built for Goodie Fashion House and Great Emavic Gadgets."],["Video editing","Promotional and social video editing projects."],["AI video generation","AI-generated video content for creative and promotional use."]],
     skills: ["Brand identity","Web development","Graphics design","Video editing","AI video generation","Motions"],
-    resume: "assets/resume.pdf", resumeLabel: "Download résumé"
+    resume: "assets/images/Dee-TECH CV.pdf", resumeLabel: "Download résumé"
   },
   services: [
     ["Brand identity","Logos, colour and type systems that hold up everywhere."],
@@ -42,7 +42,7 @@ window.SITE = {
     {id:"aivideo",title:"AI VIDEOS",category:"AI Videos",year:"2026",image:"assets/images/Aivideocover.png",videos:["assets/images/Aivideo1.mp4","assets/images/Aivideo2.mp4","assets/images/Aivideo3.mp4"], url:""},
     {id:"pulse",title:"GOODIE FASHION HOUSE",category:"Web",year:"2026",image:"assets/images/GFH.jpg",url:"https://gfh-fashion-ashy.vercel.app"},
     {id:"pulse1",title:"GREAT EMAVIC GADGETS",category:"Web",year:"2026",image:"assets/images/greatemavic.jpg",url:"https://dumzday45.github.io/GreatEmavicGadget"},
-    {id:"flier1",title:"FLIERS PACK",category:"Fliers",image:"assets/images/f3.webp",images:["assets/images/f1.webp","assets/images/f2.webp","assets/images/f3.webp","assets/images/f4.webp"], url:""},
-    {id:"ember",title:"Ember Motion Reel",category:"Motions",year:"2025",summary:"Demo project. Replace with a real case study.",image:"assets/images/p1.svg",url:""},
+    {id:"flier1",title:"FLIERS PACK",category:"Fliers", year:"2026", image:"assets/images/f3.webp",images:["assets/images/f1.webp","assets/images/f2.webp","assets/images/f3.webp","assets/images/f4.webp"], url:""},
+    {id:"motion graphics",title:"MOTION GRAPHICS",category:"Motions",year:"2026", image:"assets/images/deetech.png",videos:["assets/images/deetech.mp4"], url:""},
   ]
 };

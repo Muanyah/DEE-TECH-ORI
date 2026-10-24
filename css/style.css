@@ -29,7 +29,7 @@ a{color:inherit;}
 .nav a:hover,.nav a[aria-current]{border-color:currentColor}
 .menu-btn{display:none;width:44px;height:44px;border-radius:50%;border:0;background:#eee;color:var(--ink);font-size:1.2rem;cursor:pointer}
 main{position:relative; width: 100%; height: 100%; overflow: hidden;}
-h1,h2{font-family:var(--font-display);font-weight:400;text-transform:uppercase;line-height:.95;margin:0 0 .4em;}
+h1,h2{font-family:var(--font-display);font-weight:400;line-height:.95;margin:0 0 .4em;}
 h1{font-size:clamp(2.6rem,8vw,5.5rem)}h2{font-size:clamp(1.8rem,4vw,3rem)}
 .meta{opacity:.8;margin:0 0 1rem;font-size:.9rem}
 .pill{display:inline-block;background:#fff;color:var(--brand);font-weight:700;font-size:.8rem;letter-spacing:.05em;text-transform:uppercase;text-decoration:none;padding:16px 28px;border-radius:999px;border:0;cursor:pointer;box-shadow:0 0 28px rgba(255,255,255,.45);margin:8px 8px 8px 0;transition:transform .2s;position: relative; z-index: 4;}
@@ -41,7 +41,7 @@ h1{font-size:clamp(2.6rem,8vw,5.5rem)}h2{font-size:clamp(1.8rem,4vw,3rem)}
 .hero{display:grid;grid-template-columns:1fr;min-height:640px;position:relative; z-index: 4;}
 .hero-l{padding:clamp(24px,5vw,60px);align-self:end;position:relative;z-index:3;max-width:560px;  z-index: 4;}
 .hero h1{font-size:clamp(5rem,16vw,11rem);line-height:.85;margin-bottom:.15em; letter-spacing: 30px; z-index: 4;}
-.hero p{font-size:1.1rem;margin:0 0 20px; z-index: 4;}
+.hero p{font-size:1.5rem;margin:0 0 20px; z-index: 4;}
 .trust{display:flex;align-items:center;gap:12px;font-size:.75rem;margin-top:24px}
 .trust img{width:36px;height:36px;border-radius:50%;border:2px solid #fff;background:var(--bg)}
 .portrait{position:absolute;left:50%;transform:translateX(-45%);height:98%;width:90%;max-width: 1000px;bottom: 0; overflow: visible; object-fit: cover;object-position: bottom center; z-index:1;filter: saturate(0.5); -webkit-mask-image:linear-gradient(to bottom,#000 70%,transparent 100%);
